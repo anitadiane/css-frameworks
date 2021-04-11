@@ -1,0 +1,36 @@
+.container-fluid{
+    align-content: center;
+}
+.row{
+    align-content: center;
+    display: flex;
+
+}
+
+.col-lg-4{
+    height:200px;
+    width:200px;
+    border: 2px solid darkgreen;
+    background-color: burlywood;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+    color: darkgreen;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.centered{
+    text-align: center;
+    margin: 20px;
+    padding: 50px;
+    background-color: beige;
+    color: darkgreen;
+    height: 300px;
+    border: 1px solid darkgreen;
+}
+footer{
+    margin: 10px;
+    padding: 50px;
+}
